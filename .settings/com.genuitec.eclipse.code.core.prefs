@@ -1,0 +1,5 @@
+customPatterns=true
+customValidation=true
+disabledValidators=com.genuitec.eclipse.javascript.tern.validation.JavaScriptSyntaxValidator,
+eclipse.preferences.version=1
+patternsAdded=*.js,
